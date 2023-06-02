@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-02T10:31:23 EDT" name="Default suite" finished-at="2023-06-02T10:31:29 EDT" duration-ms="5749">
+    <groups>
+    </groups>
+    <test started-at="2023-06-02T10:31:23 EDT" name="Default test" finished-at="2023-06-02T10:31:29 EDT" duration-ms="5749">
+      <class name="rest.assured.testscripts.Ceate_Update_Delete_Resource">
+        <test-method is-config="true" signature="createPayload()[pri:0, instance:rest.assured.testscripts.Ceate_Update_Delete_Resource@7dc0f706]" started-at="2023-06-02T10:31:23 EDT" name="createPayload" finished-at="2023-06-02T10:31:23 EDT" duration-ms="393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createPayload -->
+        <test-method signature="createResource()[pri:0, instance:rest.assured.testscripts.Ceate_Update_Delete_Resource@7dc0f706]" started-at="2023-06-02T10:31:23 EDT" name="createResource" finished-at="2023-06-02T10:31:26 EDT" duration-ms="2597" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createResource -->
+        <test-method signature="verifyResourceExistence()[pri:1, instance:rest.assured.testscripts.Ceate_Update_Delete_Resource@7dc0f706]" started-at="2023-06-02T10:31:26 EDT" name="verifyResourceExistence" finished-at="2023-06-02T10:31:27 EDT" duration-ms="1096" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyResourceExistence -->
+        <test-method signature="udateResource()[pri:2, instance:rest.assured.testscripts.Ceate_Update_Delete_Resource@7dc0f706]" started-at="2023-06-02T10:31:27 EDT" name="udateResource" finished-at="2023-06-02T10:31:28 EDT" duration-ms="577" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- udateResource -->
+        <test-method signature="deleteResource()[pri:3, instance:rest.assured.testscripts.Ceate_Update_Delete_Resource@7dc0f706]" started-at="2023-06-02T10:31:28 EDT" name="deleteResource" finished-at="2023-06-02T10:31:29 EDT" duration-ms="1051" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteResource -->
+      </class> <!-- rest.assured.testscripts.Ceate_Update_Delete_Resource -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
